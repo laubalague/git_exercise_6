@@ -1,1 +1,2 @@
 Paul's first file
+Alice's changes in Paul's first file
