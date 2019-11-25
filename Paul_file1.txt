@@ -1,2 +1,3 @@
 Paul's first file
 Alice's changes in Paul's first file
+Paul's changes after Alice's changes in first file
