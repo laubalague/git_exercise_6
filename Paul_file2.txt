@@ -1,1 +1,2 @@
 Paul's second file
+Alice's line that will enter in conflict
